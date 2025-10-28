@@ -417,10 +417,6 @@ header nav button {
 }
 
 @media (max-height: 450px) {
-    header .header-content {
-        padding-top: 80px;
-    }
-
     header .header-content h1 {
     font-size: 50px;
     }
@@ -458,4 +454,5 @@ header nav button {
 .projek1 h3{
     color: #665CF1;
     border-bottom: 1px solid #665CF1;
+
 }
